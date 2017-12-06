@@ -6,7 +6,7 @@ deploy:
   provider: releases
   api_key:
     secure: D10p/jBslow24F0s4wP+2u7DjWXjmNoNHc+uPj/hPKNZvfrxt6hwyKdKwRKFsYRgoSxQ1PIzfOHJlZ/00pdsM5/XDiglUC1GRaRkMg0Qfbc78AGsR1xGysInbzPqylWKTu8vw5V2+GJGKTIu7/+XRcpwL7WW0a0q+ekOjMNI4swzkS03CPmWxfiflEO1klWbe0ENaIqJ9OaEPclEFnKmHm4RG1tSPIUq4JAPIW9fyPTSHN5fGqrzukhcLWZRbXlSlMsv+SOlgR6V5jySTJED6YevCi8YfqDI9ctvuI43/NR8rCK4iyLQPGr8JAXpHuPQa4Vb9iL8NdaObkTEHI1Tr5LnUvVKA4ulkkU4j1PgjNEo3zHKLisvpUW44Lbrk6YgC9BBSjy9RNXoT2lPGrITNO8oKYgAMCWTQ19goxPqvinISeMP5/ZHwmLkDq/IFEKdvXXXHIlzEVQbsAreeovLF8ViUbLrFjAIqdQdrq60X5Kwcn6VjDYqnHmbVTzHJDEfZ+qGATRtQSr809+Yf5EnP01rSYokKJcsVK4ge3riNcOtCyRnaCPN/sPT+YaAnvN9Q4umaj+k23edBTwLC+6zvGmAPumebCVPdFKkW3U/3x8chDErcW9/HXpzkfiDr04OB/Z12ZpOqsqup3wO7imwoWp9u2mgPdKVB/tEnVkuJYE=
-  file: /home/travis/.m2/repository/ch/bbw/calculaterapp/CalculatorApp-1.0-SNAPSHOT.jar
+  file: /home/travis/.m2/repository/ch/bbw/CalculatorApp/1.0-SNAPSHOT/CalculatorApp-1.0-SNAPSHOT.jar
   on:
     repo: AndyNope/CalculaterApp
 

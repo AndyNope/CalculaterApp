@@ -19,7 +19,7 @@ public class CalculatorApp {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Dies addiert 2 Zahlen.");
-        System.out.printn("Beenden Sie mit \"quit\"");
+        System.out.println("Beenden Sie mit \"quit\"");
         boolean run = true;
         String input;
         while (run) {

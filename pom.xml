@@ -12,7 +12,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>ch.bbw.CalculatorApp</mainClass>
+              <mainClass>ch.bbw.calculatorapp.CalculatorApp</mainClass>
             </manifest>
           </archive>
         </configuration>
